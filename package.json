@@ -1,0 +1,9 @@
+{
+  "name": "imageToB64Uri",
+  "version": "0.0.1",
+  "dependencies": {
+    "littlstar/b64.c": "0.0.1",
+    "willemt/file2str": "0.0.1",
+    "darthtrevino/str-concat": "0.0.2"
+  }
+}
